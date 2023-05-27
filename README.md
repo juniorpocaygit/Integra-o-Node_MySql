@@ -1,1 +1,1 @@
-# Integra-o-Node_MySql
+# Projeto de integração do Node com MySql, realizado no curso de Node.
